@@ -29,7 +29,7 @@ void loop()
   if (DEBUG == 1) {
     sprintf(debugOutputString, "%d", photoresistor); // convert the photoresistor value to a string
     Particle.publish("Photoresistor Value", debugOutputString, 60, PRIVATE);
-    Particle.publish("LED Status", (digitalRead(D2)==1)?"ON":"OFF", 60, PRIVATE);
+    Particle.publish("LED Status", (digitalRead(D2)==HIGH)?"ON":"OFF", 60, PRIVATE);
     delay(1000);
   } else {
     delay(100);
