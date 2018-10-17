@@ -4,7 +4,7 @@ This project reads the light level using a photoresistor and will turn on an LED
 
 ### Presentation Slides
 
-The presentation slides can be viewed and downloaded [here](https://github.com/jeffcardillo/HopeworksCodeDay/blob/master/hopeworks_code_day_presentation.pdf)
+The presentation slides can be viewed and downloaded [here](https://github.com/jeffcardillo/HopeworksCodeDay/blob/master/hopeworks_code_day_presentation.pdf).
 
 ### Code
 
