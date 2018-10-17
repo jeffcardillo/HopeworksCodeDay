@@ -12,4 +12,4 @@ The code for this project can be found under the [code](https://github.com/jeffc
 
 ### Presentation Slides
 
-The presentation slides will be included here soon.
+The presentation slides can be viewed and downloaded [here](https://github.com/jeffcardillo/HopeworksCodeDay/blob/master/hopeworks_code_day_presentation.pdf)
